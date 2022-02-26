@@ -1,0 +1,13 @@
+class Solution {
+    public int maxSubArray(int[] nums) {
+        int sum =0;
+        int maxSum =0;
+        int maxSubArray[];
+        
+        for(int num:nums){
+            sum = sum +nums[i];
+            
+        }
+        
+    }
+}
